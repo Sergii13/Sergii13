@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/RPC8fx4/photo-2024-07-13-11-09-33.jpg" align="center" style="width: 100px;height:100px;border-radius:50%;overflow:hidden;" />
+<img src="https://i.ibb.co/RPC8fx4/photo-2024-07-13-11-09-33.jpg" align="center" style="width: 100px;height:100px;border-radius:50%;overflow:hidden; object-fit:cover;display:block;" />
 </div>  
   
 
@@ -33,11 +33,6 @@
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
 
 
 
@@ -66,24 +61,3 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sergii13&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
