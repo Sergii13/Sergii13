@@ -1,6 +1,6 @@
 <div align="center">
-  <div style=width: 100px;height:100px;border-radius:50%;overflow:hidden;>
-    <img src="https://i.ibb.co/RPC8fx4/photo-2024-07-13-11-09-33.jpg" align="center" style="width: 100%;height:100%; object-fit:cover;" />
+  <div style=width:100px;height:100px;border-radius:50%;overflow:hidden;>
+    <img src="https://i.ibb.co/RPC8fx4/photo-2024-07-13-11-09-33.jpg" align="center" style="width: 100%; height:100%; object-fit:cover;" />
   </div>
 </div>  
   
